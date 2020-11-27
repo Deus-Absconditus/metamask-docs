@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/MetaMask/metamask-docs)
+
 # Getting Started
 
 1. Open project in terminal and run `yarn`
